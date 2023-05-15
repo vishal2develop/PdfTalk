@@ -9,5 +9,6 @@ The application reads the PDF and splits the text into smaller chunks that can b
 The application uses Streamlit to create the GUI and Langchain to deal with the LLM.
 
 ## Process Diagram
+![Ask_Book_Questions_Workflow](https://github.com/vishal2develop/PdfTalk/assets/26363518/70573b83-a003-41ed-8f5b-63babb5ae483)
 
-![](Ask_Book_Questions_Workflow.jpeg)
+
